@@ -7,7 +7,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/api/rsa_enkripsi_url.php"
+      "dest": "/api/index.php"
     }
   ]
 }
